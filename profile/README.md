@@ -7,7 +7,7 @@
 
 
 #### The Who
-
+[Oskar Elek](https://github.com/ElekOskar) is the lead developer and designer of the underlying MCPM algorithm. [Carlos Maltzahn](https://github.com/carlosm) is the key stakeholder. [Joseph N. Burchett]() and [Angus G. Forbes]() and [Jan Ivanecky]() are the main intellectural contributors. Contributors also include great folks at Google Summer of Code, University of California in Santa Cruz, New Mexico State University and worldwide.
 
 #### The Where
 The Universe, of course. But especially the former Creative Coding Lab and the [Open Source Program Office](https://ospo.ucsc.edu/) at the [University of California in Santa Cruz](https://ucsc.edu). On the Internet it lives on [polyphy.io](https://polyphy.io/) and the associated GitHub repositories below.
